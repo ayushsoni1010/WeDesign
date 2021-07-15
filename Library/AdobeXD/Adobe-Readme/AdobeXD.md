@@ -1,4 +1,4 @@
-L# AdobeAdobeXDXA
+# AdobeXD
 
 Ad-Assetsobe XD is a vector-based user experience design tool for web apps and mobile apps, developed and published by Adobe Inc. It is available for macOS and Windows, although there are versions for iOS and Android to help preview the result of work directly on mobile devices.
 
@@ -77,7 +77,7 @@ You can now use voice commands, keyboard, and gamepad inputs to transition betwe
 
 <img src="/Library/AdobeXD/Adobe-Assets/Adobe7.png">
 
-### ⭐New Features in Adobe XD 38.0
+### 📌New Features in Adobe XD 38.0
 
 The March 2021 release of XD has the following feature:
 
@@ -162,14 +162,14 @@ CC libraries integration within XD
 Ease your work by using auto height text that dynamically adjusts the height based on the content of the text object while its width remains fixed!
 
 <img src="/Library/AdobeXD/Adobe-Assets/Adobe15.jpg">
-Text layouts with auto height
+`Text layouts with auto height`
 
 #### ⭐Flexible designing with nested components
 
 With nested component workflows, work with complex components that contain other components within them with ease! Modify instances of a component nested within another component without impacting the main component and watch your designs come alive!
 
 <img src="/Library/AdobeXD/Adobe-Assets/Adobe16.gif">
-Nested component workflows
+`Nested component workflows`
 
 #### ⭐Improved developer handoff with component states in design specs
 
