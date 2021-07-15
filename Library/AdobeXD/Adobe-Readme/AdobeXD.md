@@ -133,21 +133,24 @@ The October 2020 release of XD has the following new features and enhancements:
 You can now manipulate objects in 3D space to introduce depth and perspective in your designs! Rotate objects on the horizontal (x), vertical (y), and z-axes to create immersive experiences and watch your designs come alive!
 
 <img src="/Library/AdobeXD/Adobe-Assets/Adobe11.gif">
-3D transforms at work
+
+`3D transforms at work`
 
 #### ⭐Reusable design systems with Creative Cloud Libraries
 
 With XD, creating and maintaining a design system is flexible, frictionless, and intuitive. You can use design systems to create and publish Creative Cloud Libraries from cloud documents to share your reusable design system elements with your team, allowing them to design consistently across their design projects.
 
 <img src="/Library/AdobeXD/Adobe-Assets/Adobe12.jpg">
-Design systems with CC libraries
+
+`Design systems with CC libraries`
 
 #### ⭐Robust collaboration with coediting
 
 Coediting is no longer a beta feature and is up for general use. You can now click on avatars and jump to the location where your collaborators are working on the canvas and edit them in real time!
 
 <img src="/Library/AdobeXD/Adobe-Assets/Adobe13.png">
-Real-time collaboration with coediting
+
+`Real-time collaboration with coediting`
 
 #### ⭐Build cohesive designs with Creative Cloud Libraries
 
@@ -155,13 +158,15 @@ With the all new Creative Cloud Libraries integration, you can centrally manage 
 Start by curating your sticker sheet with set of components and styles that constitute design and brand system in an XD cloud document; when ready to share those reusable assets with your broader team, you can publish your sticker sheet cloud document as a library and invite your teams, with the right set of permissions.
 
 <img src="/Library/AdobeXD/Adobe-Assets/Adobe14.png">
-CC libraries integration within XD
+
+`CC libraries integration within XD`
 
 #### ⭐Design flexible text layouts with auto-height text
 
 Ease your work by using auto height text that dynamically adjusts the height based on the content of the text object while its width remains fixed!
 
 <img src="/Library/AdobeXD/Adobe-Assets/Adobe15.jpg">
+
 `Text layouts with auto height`
 
 #### ⭐Flexible designing with nested components
@@ -169,6 +174,7 @@ Ease your work by using auto height text that dynamically adjusts the height bas
 With nested component workflows, work with complex components that contain other components within them with ease! Modify instances of a component nested within another component without impacting the main component and watch your designs come alive!
 
 <img src="/Library/AdobeXD/Adobe-Assets/Adobe16.gif">
+
 `Nested component workflows`
 
 #### ⭐Improved developer handoff with component states in design specs
