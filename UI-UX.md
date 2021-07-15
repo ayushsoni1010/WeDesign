@@ -16,7 +16,7 @@
 
 <a name="module-1"/>
 
-## Module - 1
+## 📌Module - 1
 ### Introduction to User Experience (UX) Design
 - Definition of User Experience (UX)
 - What is Design?
@@ -28,7 +28,7 @@
 
 <a name="module-2"/>
 
-## Module - 2
+## 📌Module - 2
 ### User Interface (UI) Design 
 - User Interface Design Considerations
 
@@ -42,7 +42,7 @@
 
 <a name="module-3"/>
 
-## Module - 3
+## 📌Module - 3
 ### User Experience Design Principles (UX)
 - A well-defined Hierarch , Consistency , Accessibility and Usability , Developing User Experience (UX) Design
 - Understanding User Needs
@@ -72,7 +72,7 @@
 
 <a name="module-4"/>
 
-## Module - 4
+## 📌Module - 4
 
 ### Introduction to Design Thinking
 - Origin Design Thinking
@@ -86,7 +86,7 @@
 
 <a name="module-5"/>
 
-## Module - 5
+## 📌Module - 5
 ### Introduction to User Experience (UX) Design Principles
 - Principles of UX Design
 - Focus on your Users
@@ -99,7 +99,7 @@
 
 <a name="module-6"/>
 
-## Module - 6
+## 📌Module - 6
 ### TUX Design vs. UI Design
 - UI Design
 - The main differences between UX Design and UI Design
