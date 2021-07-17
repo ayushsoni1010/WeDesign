@@ -1,4 +1,4 @@
-L# 📌KeybFigmaard Shortcuts for Figma
+# 📌KeybFigmaard Shortcuts for Figma
 Keyboard shortcuts may differ between keyboard layouts. Mouseless is smart enough to show the exact keys according to your layout.
 
 

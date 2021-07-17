@@ -1,4 +1,5 @@
-# AdobeXD
+
+# Adobe XD
 
 Adobe XD is a vector-based user experience design tool for web apps and mobile apps, developed and published by Adobe Inc. It is available for macOS and Windows, although there are versions for iOS and Android to help preview the result of work directly on mobile devices.
 
@@ -63,6 +64,7 @@ Like the Hover state, the Toggle state now has its own shortcut in the Design vi
 
 You can use the new Preferences menu in XD to manage settings and customize your in-app experience. Change your app language, show/hide productivity tips, or enable/disable automatic link generation for sharing artboards. On macOS, select Adobe XD > Preferences, and on Windows, select Edit > Preferences.
 
+
 <img src="/Library/AdobeXD/Adobe-Assets/Adobe6.jpg">
 
 ### 📌New Features in Adobe XD 39.0
@@ -74,6 +76,8 @@ The April 2021 release of XD has the following feature:
 #### ⭐New triggers to transition between component states
 
 You can now use voice commands, keyboard, and gamepad inputs to transition between the states of a component and create interactive, high-fidelity prototypes.
+
+### ⭐New Features in Adobe XD 38.0
 
 <img src="/Library/AdobeXD/Adobe-Assets/Adobe7.png">
 

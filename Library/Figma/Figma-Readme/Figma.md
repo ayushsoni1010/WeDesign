@@ -1,10 +1,12 @@
-L# What FigmaiFigma-Assetsma?
+
+# What is Figma?
 
 Figma is a powerful design tool that helps you to create anything: websites, applications, logos, and much more.
 
 By learning to use Figma, you'll take your first steps into User Interface Design and and User Experience Design. These skills are essential for building a great portfolio for yourself and potentially for your own company.
 
 <img src="/Library/Figma/Figma-Assets/figma.jpg">
+
 
 We will explore different features of Figma including:
 
@@ -66,7 +68,6 @@ We are going to build our first draft page. Take a look at the default design la
 
 <img src="/Library/Figma/Figma-Assets/figma2.gif">
 
-
 # How to Make a Frame in Figma
 
 First we will create a frame. This is the same as a page, and it's where our design will live. You can size a frame however you want depending on your requirements.
@@ -77,7 +78,6 @@ This example will be a website, so we will select the Desktop Frame – but you 
 - Select the Frame size on the right panel
 
 <img src="/Library/Figma/Figma-Assets/figma3.gif" >
-
 
 # How to Add Grids and Columns in Figma
 
@@ -102,8 +102,8 @@ I'll start with a simple rectangle which we will use to create our hero navigati
 - Create a square
 - Begin to shape and size it
 
-<img src="/Library/Figma/Figma-Assets/figma5.gif" >
 
+<img src="/Library/Figma/Figma-Assets/figma5.gif" >
 
 # How to Add Images in Figma
 
@@ -117,7 +117,6 @@ Let's add a logo as our first image which we will add to the top left of the scr
 
 <img src="/Library/Figma/Figma-Assets/figma6.gif" >
 
-
 # How to Add Text to a Design in Figma
 
 To add text to a design, select the text tool and place it on the page. The font will default to Roboto, but you can change the font family, size, and color at any stage.
@@ -130,7 +129,6 @@ In this example we will use right panel to change the color and size of the font
 
 <img src="/Library/Figma/Figma-Assets/figma7.gif" >
 
-
 # How to Label Elements and Create Groups in Figma
 
 Working with lots of layers in Figma can get confusing, so label all your elements as soon as you create them. Even better is to group different sections and shapes with labels such as "Hero Background" or "Navbar".
@@ -141,7 +139,6 @@ Working with lots of layers in Figma can get confusing, so label all your elemen
 
 <img src="/Library/Figma/Figma-Assets/figma8.gif" >
 
-
 # Conclusion
 
 Figma is simple to start using, but there's a lot to learn to use it to its full potential. With the basics of shapes, images, and text, you can easily get started prototyping a website, designing a mobile application, and much more.
@@ -151,4 +148,5 @@ If you want to take a deeper dive into these basics, I would recommend watching 
 You can view the full results of the design below: <a href="https://www.figma.com/file/9kw3Z8n5t5l3BHAvyZy39X/Figma-Crash-Course-2021?node-id=0%3A1" target="_blank">Click here</a>
 
 <img src="/Library/Figma/Figma-Assets/figma.jpg" >
+
 
