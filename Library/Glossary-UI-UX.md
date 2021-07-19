@@ -1,5 +1,5 @@
 # Glossary
-<img align="right" src="/library/glossary.jpg">/
+
 ## 📌Terms and Definitions
 
 
