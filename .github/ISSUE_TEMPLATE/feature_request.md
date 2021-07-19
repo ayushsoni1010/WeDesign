@@ -12,7 +12,7 @@ assignees: ''
 
 **What is your feature request related to ?**
 
-- [x] Ideas
+- [ ] Ideas
 - [ ] Designing
 - [ ] Documentation
 - [ ] Others[please specify like testing, code etc]
