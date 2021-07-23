@@ -71,3 +71,4 @@ This animation creates a transition between preview and detailed view: a user se
 <img src="/Resources/Cards/Assets/Card12.gif">
 
 ## Conclusion
+Cards are then new creative canvas. They are more than just a look, cards are one of the most flexible layout formats for creating rich content experiences.
