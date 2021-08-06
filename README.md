@@ -1,3 +1,8 @@
+
+# temporary
+
+<img src="hello.gif">
+
 # Tech Stack
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![AdobeXD](https://img.shields.io/badge/AdobeXD-F24E1E?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.adobexd.com/)
@@ -6,3 +11,4 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 
 The learning guide contains the Basics, Intermediate and Advance resources for User Interface and User Experience Design
+
