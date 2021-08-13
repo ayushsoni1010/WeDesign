@@ -1,0 +1,88 @@
+[
+  
+  {
+    "name": "good first issue",
+    "description": "This issue is good for first timers",
+    "color": "a9e3ff"
+  },
+  {
+    "name": "🆘 help wanted",
+    "description": "This issue needs help ! Please help if possible !",
+    "color": "ff00ff"
+  },
+  {
+    "name": "🟥 Level4 ",
+    "description": "This issue will be considered as level 4 issue for WeDesign.",
+    "color": "b60205"
+  },
+  {
+    "name": "🟧 Level3 ",
+    "description": "This issue will be considered as level 3 issue for WeDesign.",
+    "color": "ff9f1c"
+  },
+  {
+    "name": "🟨 Level2 ",
+    "description": "This issue will be considered as level 2 issue for WeDesign.",
+    "color": "ffcc00"
+  },
+  {
+    "name": "🟩 Level1 ",
+    "description": "This issue will be considered as level 1 issue for WeDesign.",
+    "color": "cfda2c"
+  },
+  {
+    "name": " WeDesign ",
+    "description": "This issue will be considered for WeDesign",
+    "color": "d93f0b"
+  },
+  {
+    "name": " Design ",
+    "description": "This issue will be considered for WeDesign",
+    "color": "d93f0b"
+  },
+  {
+    "name": " Figma ",
+    "description": "This issue will be considered for WeDesign",
+    "color": "d93f0b"
+  },
+  {
+    "name": " UI-UX ",
+    "description": "This issue will be considered for WeDesign",
+    "color": "d93f0b"
+  },
+  {
+    "name": " Adobe ",
+    "description": "This issue will be considered for WeDesign",
+    "color": "d93f0b"
+  },
+  {
+    "name": " React ",
+    "description": "This issue will be considered for WeDesign",
+    "color": "d93f0b"
+  },
+  {
+    "name": "Frontend",
+    "description": "This issue will be considered for WeDesign",
+    "color": "d93f0b"
+  },
+  {
+    "name": "Difficult: Easy",
+    "description": "This issue will be considered for WeDesign",
+    "color": "d93f0b"
+  },
+  {
+    "name": "Difficult : Medium",
+    "description": "This issue will be considered for WeDesign",
+    "color": "d93f0b"
+  },
+  {
+    "name": "Difficult: Hard",
+    "description": "This issue will be considered for WeDesign",
+    "color": "d93f0b"
+  },
+  {
+    "name": " 🤩 Up for Grab ",
+    "description": "This issue will is not assigned ! Grab It !",
+    "color": "bf00ff"
+  }
+]
