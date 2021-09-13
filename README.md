@@ -11,3 +11,8 @@
 
 The learning guide contains the Basics, Intermediate and Advance resources for User Interface and User Experience Design
 
+
+- [Library](https://github.com/ayushsoni1010/WeDesign/tree/main/Library)
+- [Resources](https://github.com/ayushsoni1010/WeDesign/tree/main/Resources)
+- [UI-UX.md](https://github.com/ayushsoni1010/WeDesign/blob/main/UI-UX.md)
+
